@@ -9,6 +9,10 @@ https://beej.us/blog/data/websockets/
 
 ## Knowledge
 
+### Testing with `curl`
+
+curl -D - http://localhost:<port>
+
 ### Creating a web server in NodeJS
 
 Basic approach:
