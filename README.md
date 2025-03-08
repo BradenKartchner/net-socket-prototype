@@ -6,6 +6,7 @@ Messing around with web sockets for learning and fun
 
 https://beej.us/guide/bgnet/
 https://beej.us/blog/data/websockets/
+https://github.com/orichalcink/chatroom
 
 ## Knowledge
 

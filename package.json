@@ -1,0 +1,24 @@
+{
+  "name": "net-socket-prototype",
+  "version": "1.0.0",
+  "description": "Messing around with web sockets for learning and fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradenKartchner/net-socket-prototype.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BradenKartchner/net-socket-prototype/issues"
+  },
+  "homepage": "https://github.com/BradenKartchner/net-socket-prototype#readme",
+  "devDependencies": {
+    "@types/node": "^22.13.9",
+    "typescript": "^5.8.2"
+  }
+}
